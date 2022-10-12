@@ -26,4 +26,4 @@ const CONNECTION_URL = process.env.CONNECTION_URL;
 
 mongoose.connect(CONNECTION_URL, {useNewUrlParser: true, useUnifiedTopology: true})
     .then(() => app.listen(PORT, () => console.log(`Server running on port: ${PORT}`)))
-    .catch((error) => console.log(`${error} did not connect asbdljkhbasfljhbasdf`));
+    .catch((error) => console.log(`${error} did not connect asbdljkhbasfljhbasdf ${process.env.CONNECTION_URL} PORT NEXT ${process.env.PORT}`));

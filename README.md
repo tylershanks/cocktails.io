@@ -65,5 +65,5 @@ Quick and easy searches, readability, and the ability to add your own drinks is 
 
 
   ### Screenshot
-  ![image](https://user-images.githubusercontent.com/86684183/187352724-85db6e71-a267-4493-a6c2-c8297becafa4.png)
+  ![image](https://user-images.githubusercontent.com/86684183/197883927-8f360a5f-21e8-47a9-b99e-7107d947c642.png)
 
